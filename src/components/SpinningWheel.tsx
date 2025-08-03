@@ -7,10 +7,10 @@ interface SpinningWheelProps {
 
 const challenges = [
   "Share a favorite memory together! 💭",
-  "Send a virtual hug! 🤗",
-  "Recreate a silly selfie! 📸",
-  "Write a friendship haiku! 🌸",
-  "Do a happy dance! 💃",
+  "Describe Our friendship in a movie title! 🎬💕",
+  "Type a message using only GIFs! 🌀😂",
+  "Describe your friendship as a food combo! 🍕🍟",
+  "Text me something random, then explain it! 🤔➡️😂",
   "Share your favorite joke! 😂"
 ];
 
